@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conversao.cs" />
+    <Compile Include="Rates.cs" />
     <Compile Include="Receita\AtividadePrincipalModel.cs" />
     <Compile Include="Receita\AtividadeSecundariaModel.cs" />
     <Compile Include="Receita\QsaModel.cs" />
